@@ -1,6 +1,6 @@
 # Euro-Converter-Api
 Description
-A simple command-line Python application that converts Euros (EUR) to US Dollars (USD), British Pounds (GBP), or Japanese Yen (JPY) using real-time exchange rates fetched from the Frankfurter API. The application features an interactive menu and keeps track of your conversion history during the active session.
+Python application that converts Euros (EUR) to US Dollars (USD), British Pounds (GBP), or Japanese Yen (JPY) using real-time exchange rates fetched from the Frankfurter API. The application features an interactive menu and keeps track of your conversion history during the active session.
 
 Features
 Live Exchange Rates: Retrieves up-to-date conversion rates upon startup via a REST API.
